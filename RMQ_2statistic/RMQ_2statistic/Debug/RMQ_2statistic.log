@@ -1,0 +1,14 @@
+﻿Сборка начата 14.05.2017 1:12:49.
+     1>Проект "C:\Users\Талгат\semenars\model 8\RMQ_2statistic\RMQ_2statistic\RMQ_2statistic.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Исходный код.cpp"
+         Исходный код.cpp
+     1>c:\users\талгат\semenars\model 8\rmq_2statistic\rmq_2statistic\исходный код.cpp(48): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\талгат\semenars\model 8\rmq_2statistic\rmq_2statistic\исходный код.cpp(78): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+     1>c:\users\талгат\semenars\model 8\rmq_2statistic\rmq_2statistic\исходный код.cpp(92): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283): см. объявление "scanf"
+     1>Сборка проекта "C:\Users\Талгат\semenars\model 8\RMQ_2statistic\RMQ_2statistic\RMQ_2statistic.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.59
