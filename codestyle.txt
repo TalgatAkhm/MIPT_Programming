@@ -4,7 +4,7 @@ A little about my codestyle:
 	using the snake-case style for variables, functions, classes and structures;
 	using upper-case style for constants;
 	using structs only for not complicated objects;
-	using public-protected-private order in class;
+	using public-protected-private ordering in class;
 	using input/output streams only in main() function;
 	
 	
