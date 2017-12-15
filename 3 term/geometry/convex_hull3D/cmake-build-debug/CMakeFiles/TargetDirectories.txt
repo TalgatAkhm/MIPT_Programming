@@ -1,2 +1,0 @@
-/home/talgat/CLionProjects/convex_hull3D/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/talgat/CLionProjects/convex_hull3D/cmake-build-debug/CMakeFiles/edit_cache.dir
