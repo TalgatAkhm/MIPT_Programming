@@ -70,18 +70,7 @@ void treep::record_new_count( node* current )
 		current->count = count( current->left ) + count( current->right ) + 1;
 }
 
-//void treep::push( node* current )
-//{
-//	if( current != nullptr && current->rev )
-//	{
-//		current->rev = false;
-//		swap( current->left, current->right );
-//		if( current->left != nullptr )
-//			current->left->rev = true;
-//		if( current->right != nullptr )
-//			current->right->rev = true;
-//	}
-//}
+
 
 void treep::merge( node*& current, node* left_current, node* right_current )
 {

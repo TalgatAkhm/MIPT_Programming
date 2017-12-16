@@ -26,32 +26,3 @@ public:
 	}
 };
 
-
-//struct edge
-//{
-//	int from;
-//	int to;
-//	double weight;
-//	edge( ){}
-//	edge( int f, int t, double w ) :from( f ), to( t ), weight( w ){ }
-//
-//	bool operator<(const edge& another)
-//	{
-//		if( weight < another.weight )
-//			return true;
-//		return false;
-//	}
-//	
-//	edge& operator=(const edge& another)
-//	{
-//		from = another.from;
-//		to = another.to;
-//		weight = another.weight;
-//		return *this;
-//	}
-//};
-//
-//bool operator<(const edge& e1, const edge& e2)
-//{
-//	return (e1.weight < e2.weight);
-//}
